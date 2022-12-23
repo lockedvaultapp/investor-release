@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "83dcb13e2afeeae8fef69a15caba6c0c",
-"index.html": "a1bf3db1533d597fbc1c766ec2208404",
-"/": "a1bf3db1533d597fbc1c766ec2208404",
+"index.html": "f2f7ec102931317e1337a245db6f2ec8",
+"/": "f2f7ec102931317e1337a245db6f2ec8",
 "main.dart.js": "d8bd09846a90d60960f1ded010be9d9e",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -22,7 +23,11 @@ const RESOURCES = {
 "assets/shaders/ink_sparkle.frag": "15feb9b61d7e664ade281eb4f9116873",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/hersheybar381.jpg": "b9bf20a56937134ba5599ec7869549ab",
-"assets/assets/hersheybar381.png": "e5cd53388c38e67410af9f7ff0f402f6"
+"assets/assets/hersheybar381.png": "e5cd53388c38e67410af9f7ff0f402f6",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
